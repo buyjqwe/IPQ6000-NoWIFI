@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: IPQ6000-M2
+name: zn-M2
 
 on:
   repository_dispatch:
